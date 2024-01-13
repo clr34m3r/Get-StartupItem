@@ -54,7 +54,7 @@ This script is provided as-is, without any warranty. Use it responsibly and at y
 
 ## Author
 
-[Your Name]
+clr34m3r
 
 ## License
 
